@@ -17,7 +17,6 @@ public class Author {
 
         return surname;
     }
-
     public  String gerFullName(){
         return name + surname;
     }

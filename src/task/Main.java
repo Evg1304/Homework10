@@ -15,3 +15,4 @@ public class Main {
         System.out.println(author2.toString());
     }
 }
+
